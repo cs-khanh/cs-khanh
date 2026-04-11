@@ -19,7 +19,7 @@
 <!-- BIO SECTION WITH ILLUSTRATION -->
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="50%">
 
 ### 🧑‍💻 Who Am I?
 
@@ -50,7 +50,7 @@ const myInfo = {
 ![Vietnam](https://img.shields.io/badge/🇻🇳_Based_in-Vietnam-red?style=flat-square&labelColor=1e1e2e)
 
 </td>
-<td valign="middle" align="center" width="40%">
+<td valign="middle" align="center" width="50%">
 
 <img src="./assets/Codes.gif" width="100%" style="margin-top: 10px; min-width: 250px;" alt="Coding Illustration"/>
 
