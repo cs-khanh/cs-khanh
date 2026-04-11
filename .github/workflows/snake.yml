@@ -1,0 +1,32 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # chạy mỗi ngày lúc 0:00 UTC
+  workflow_dispatch:        # cho phép chạy thủ công
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    environment: dev
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: cs-khanh
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=7c3aed&color_dots=#ebedf0,#d8b4fe,#a855f7,#7e22ce,#4c1d95
+            dist/github-contribution-grid-snake-dark.svg?color_snake=7c3aed&color_dots=#161b22,#d8b4fe,#a855f7,#7e22ce,#4c1d95
+
+      - name: Push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
