@@ -26,7 +26,6 @@
 ```javascript
 const myInfo = {
   name:     "Phạm Gia Khánh",
-  location: "Ho Chi Minh City, Vietnam 🇻🇳",
   roles:    ["Data Engineer 🗄️", "AI Engineer 🤖"],
   major:    "Computer Science",
   school:   "Industrial University of Ho Chi Minh City",
