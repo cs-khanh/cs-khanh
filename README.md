@@ -36,8 +36,11 @@ const myInfo = {
     learning:  "LLMs, MLOps, Distributed Computing, Cloud(AWS)",
   },
 
-  focus: "Data → Systems. AI → Impact.",
-  funFact: "I'm a big fan of AI.",
+  focus: [
+    "Transforming raw data into reliable systems",
+    "AI into meaningful real-world impact."
+  ],
+  funFact: "I'm a big fan of AI."
 };
 ```
 
@@ -52,11 +55,40 @@ const myInfo = {
 </td>
 <td valign="middle" align="center" width="40%">
 
-<img src="./assets/Codes.gif" width="100%" style="margin-top: 10px; min-width: 250px;" alt="Coding Illustration"/>
+<img src="./assets/Codes.gif" width="100%" style="min-width: 250px;" alt="Coding Illustration"/>
 
 </td>
 </tr>
 </table>
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cs-khanh/cs-khanh/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cs-khanh/cs-khanh/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/cs-khanh/cs-khanh/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+<!-- > ⚙️ *To enable the snake animation, add a GitHub Actions workflow — see [instructions here](https://github.com/Platane/snk)* -->
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cs-khanh&bg_color=ffffff&color=475569&line=7c3aed&point=7c3aed&area=true&area_color=e9d5ff&hide_border=true&custom_title=Khanh's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
+</div>
+
+---
+
+## 💬 A Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" alt="Dev Quote"/>
+</div>
 
 ---
 
@@ -113,36 +145,6 @@ const myInfo = {
 
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/csekhanh?theme=light&font=Fira%20Code&ext=contest&border=0&border_radius=12" alt="LeetCode Stats"/>
-</div>
-
----
-
-## 🐍 My Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cs-khanh/cs-khanh/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cs-khanh/cs-khanh/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/cs-khanh/cs-khanh/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
-<!-- > ⚙️ *To enable the snake animation, add a GitHub Actions workflow — see [instructions here](https://github.com/Platane/snk)* -->
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cs-khanh&bg_color=ffffff&color=475569&line=7c3aed&point=7c3aed&area=true&area_color=e9d5ff&hide_border=true&custom_title=Khanh's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
-## 💬 A Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" alt="Dev Quote"/>
 </div>
 
 ---
