@@ -36,7 +36,8 @@ const myInfo = {
     learning:  "LLMs, MLOps, Distributed Computing, Cloud(AWS)",
   },
 
-  funFact:   "I'm a big fan of AI and I'm always looking for new ways to use it to solve real-world problems."
+  focus: "Data → Systems. AI → Impact.",
+  funFact: "I'm a big fan of AI.",
 };
 ```
 
@@ -51,7 +52,7 @@ const myInfo = {
 </td>
 <td valign="middle" align="center" width="40%">
 
-<img src="./assets/Codes.gif" width="400px" style="margin-top: 10px;" alt="Coding Illustration"/>
+<img src="./assets/Codes.gif" width="100%" style="margin-top: 10px; min-width: 250px;" alt="Coding Illustration"/>
 
 </td>
 </tr>
