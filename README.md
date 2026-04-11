@@ -51,7 +51,7 @@ const myInfo = {
 </td>
 <td valign="middle" align="center" width="40%">
 
-<img src="./assets/Codes.gif" width="600" style="margin-top: 10px;" alt="Coding Illustration"/>
+<img src="./assets/Codes.gif" width="400px" style="margin-top: 10px;" alt="Coding Illustration"/>
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ const myInfo = {
 
 </div>
 
-> 💡 *Edit the table above to match your actual tech stack — browse icons at [skillicons.dev](https://skillicons.dev)*
+<!-- > 💡 *Edit the table above to match your actual tech stack — browse icons at [skillicons.dev](https://skillicons.dev)* -->
 
 ---
 
@@ -150,20 +150,7 @@ const myInfo = {
 
 <div align="center">
 
-<!-- Vercel Services are currently down. Uncomment below khi server phục hồi:
-<a href="https://github.com/cs-khanh/A-Multi-Agent-System-for-Equity-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cs-khanh&repo=A-Multi-Agent-System-for-Equity-Analysis&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=475569&icon_color=7c3aed" />
-</a>
-<a href="https://github.com/cs-khanh/SparkCluster-With-Docker-On-WSL-Ubuntu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cs-khanh&repo=SparkCluster-With-Docker-On-WSL-Ubuntu&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=475569&icon_color=7c3aed" />
-</a>
-<a href="https://github.com/cs-khanh/checkin_face_anti_spoofing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cs-khanh&repo=checkin_face_anti_spoofing&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=475569&icon_color=7c3aed" />
-</a>
-<a href="https://github.com/cs-khanh/data_pipeline_with_airflow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cs-khanh&repo=data_pipeline_with_airflow&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=475569&icon_color=7c3aed" />
-</a>
--->
+<img src="https://raw.githubusercontent.com/cs-khanh/cs-khanh/output/metrics.projects.svg" width="100%" alt="Featured Projects"/>
 
 </div>
 
